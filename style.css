@@ -4,6 +4,7 @@
     --Silver: #C0C0C0;
     --Orange: #FFA500;
     --MistyRose: #FFE4E1;
+    --Black: #000000;
 }
 
 body {
@@ -32,7 +33,7 @@ h1, h2, h3 {
 
 button{
     background: var(--Silver);
-    color: var(--Orange);
+    color: var(--Black);
     border: solid 1px white;
     text-decoration: none;
     cursor: pointer;
